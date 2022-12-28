@@ -18,6 +18,10 @@ h1 {
 
 }
 
+h3 {
+    font-family: "Montserrat-Bold", "Helvetica Neue",
+}
+
 .navbar {
     padding-bottom: 4.5rem;
 }
@@ -48,4 +52,9 @@ h1 {
 
 #features{
     padding: 7% 15%;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
 }
